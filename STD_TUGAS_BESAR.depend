@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1640986982 source:f:\kuliah\praktikum\praktikum\std_tugas_besar\pc.cpp
+	"PC.h"
+
+1640986937 f:\kuliah\praktikum\praktikum\std_tugas_besar\pc.h
+	<iostream>
+	<iostream>
+
+1640987019 source:f:\kuliah\praktikum\praktikum\std_tugas_besar\main.cpp
+	"PC.h"
+	<stdlib.h>
+	<iostream>
+
